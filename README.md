@@ -1,2 +1,1 @@
-# Snake-game
-Snake Game new 
+I built a better version of the Snake game. Starting from the basic grid and movement requirements, I added several features made by me to increase difficulty and visual engagement. These include a "Death Block" obstacle, a teleportation system using blue portals, and a "Map Expansion" feature that grows the grid every 10 points. I also implemented a scoring multiplier and a background that changes color whenever the snake eats, Which helps give better visual feedback for the player.
